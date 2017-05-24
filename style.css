@@ -19,4 +19,9 @@ p {
 
 .paddy {
   padding: 5px;
+  height: 100px;  
+}
+
+.teapot {
+    height: 500px;
 }
