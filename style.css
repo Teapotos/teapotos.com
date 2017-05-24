@@ -72,6 +72,5 @@ p {
   font-size: 35px;
   font-family: 'Pacifico', cursive;
   color: #f46773;
-  height: 80px; 
-  width: auto; 
+  text-height: auto;
 }
