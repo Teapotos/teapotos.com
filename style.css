@@ -1,0 +1,38 @@
+
+body {
+    background-color: #F4A267;
+}
+
+img {
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+p {
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Pacifico', cursive;
+  color: #f46773;
+  line-height: 15%;
+}
+
+.top {
+  height: 10%;
+}
+
+.text {
+  height: 20%;
+}
+
+.image {
+  height: 70%;
+}
+
+@media only screen and (max-width: 768px) {
+  p {
+    font-size: 20px;
+  }
+}
